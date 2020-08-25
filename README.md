@@ -1,4 +1,13 @@
-### Hi there 👋
+## Thomas Jonstrup
+i'm Thomas from Denmark and i'm a Web Developer who has big interest in new technlogies such as React, Node, TypeScript. I also have a big interest in design and website styling and look for the latest things in design. 
+
+### Skills & Experience
+
+- :atom_symbol: React JS
+
+- :computer: HTML5, SCSS, CSS
+
+- :paintbrush: Adobe XD, Photoshop
 
 <!--
 **thomasjonstrup/thomasjonstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
