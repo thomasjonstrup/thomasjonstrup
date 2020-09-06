@@ -1,5 +1,5 @@
 ## Thomas Jonstrup
-i'm Thomas from Denmark and i'm a Web Developer who has big interest in new technlogies such as React, Node, TypeScript. I also have a big interest in design and website styling and look for the latest things in design. 
+i'm Thomas from Denmark and i'm a Web Developer who has big interest in new technlogies such as React, Node, TypeScript. I also have a big interest in design and website styling lik CSS and look for the latest things in design.
 
 ### Skills & Experience
 
