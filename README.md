@@ -9,6 +9,8 @@ i'm Thomas from Denmark and i'm a Web Developer who has big interest in new tech
 
 - :paintbrush: Adobe XD, Photoshop
 
+![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=thomasjonstrup&show_icons=true)
+
 <!--
 **thomasjonstrup/thomasjonstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
