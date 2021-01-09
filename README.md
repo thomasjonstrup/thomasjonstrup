@@ -27,6 +27,8 @@ i'm Thomas from Denmark and i'm a Web Developer currently working in a Full stac
 
 #### Tools
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+
 
 
 ### Github stats
