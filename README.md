@@ -32,7 +32,10 @@ i'm Thomas from Denmark and i'm a Web Developer currently working in a Full stac
 
 ### Github stats
 
-![Thomas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thomasjonstrup&show_icons=true)
+![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=thomasjonstrup&show_icons=true)
+
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasjonstrup&hide=TeX&layout=compact)
 
 <!--
 **thomasjonstrup/thomasjonstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
