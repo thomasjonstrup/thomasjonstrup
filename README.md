@@ -5,9 +5,9 @@ i'm Thomas from Denmark and i'm a Web Developer currently working in a Full stac
 
 - :atom_symbol: React JS, TypeScript, NextJS, Svelte, Astro JS, Vue JS
 
-- :computer: HTML5, SCSS, CSS
+- :computer: HTML5, SCSS, CSS, Tailwind CSS
 
-- :paintbrush: Adobe XD, Photoshop
+- :paintbrush: Adobe XD, Photoshop, Figma
 
 ### Technologies
 
