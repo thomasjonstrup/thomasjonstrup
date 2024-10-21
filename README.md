@@ -3,7 +3,7 @@ i'm Thomas from Denmark and i'm a Web Developer currently working in a Full stac
 
 ### Skills & Experience
 
-- :atom_symbol: React JS, TypeScript, NextJS
+- :atom_symbol: React JS, TypeScript, NextJS, Svelte, Astro JS, Vue JS
 
 - :computer: HTML5, SCSS, CSS
 
