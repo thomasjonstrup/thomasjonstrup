@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Frontend Developer | UI/UX Enthusiast | Web Performance Optimizer
 
-i'm Thomas from Denmark and i'm a Web Developer currently working in a Full stack developer role, i have a lot experience with UI. I have a big interest in new technlogies such as React, Node, TypeScript. I also have a big interest in design and website styling like CSS and i am always looking around the web for the latest things in regards design and website styling. I'm passionate about creating beautiful, responsive, and user-friendly web applications.
+I’m from Denmark and currently working as a Frontend Developer. I have extensive experience with UI development and a strong interest in new technologies like React, Node, and TypeScript. I’m also passionate about design and website styling with Tailwind and SCSS, always exploring the latest trends in CSS and web aesthetics. I love creating beautiful, responsive, and user-friendly web applications. I like focussing on making accessible websites following WCAG rules.
 
 ![Social cover](./assets/images/social-cover.jpg)
 
